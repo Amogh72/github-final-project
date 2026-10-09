@@ -1,0 +1,8 @@
+$ git branch -a -vv
+  bug-fix-revert                4409e0f [origin/bug-fix-revert] Fix typo and add author name in simple-interest.sh
+  bug-fix-typo                  7ffa515 [origin/bug-fix-typo] Fix simple interest formula and typo in README
+* main                          cda0913 [origin/main] Merge pull request #1 from Amogh72/bug-fix-revert
+  remotes/origin/HEAD           -> origin/main
+  remotes/origin/bug-fix-revert 4409e0f Fix typo and add author name in simple-interest.sh
+  remotes/origin/bug-fix-typo   7ffa515 Fix simple interest formula and typo in README
+  remotes/origin/main           cda0913 Merge pull request #1 from Amogh72/bug-fix-revert
